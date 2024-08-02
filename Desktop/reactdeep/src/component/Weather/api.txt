@@ -1,0 +1,2 @@
+20c5558411feff30112e9cd9f03bda5e
+https://api.openweathermap.org/data/2.5/weather?q={hoshiarpur}&appid={20c5558411feff30112e9cd9f03bda5e}
